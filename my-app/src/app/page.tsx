@@ -11,9 +11,9 @@ import Header from "../components/header";
         <h1 className="text-[40px] font-bold font-[libre-bodoni]">CRAFTMANSHIP AND</h1>
         <h1 className="text-[40px] font-bold font-[libre-bodoni]">FINESSE</h1>
         <div>
-        <p className="text-[22px] w-[571px] font-[libre-bodoni] background: rgba(120, 112, 84, 1); "> An example of intricate workmanship and detail of elegant necklaces and lond and short chains form a part of our desirable collection.</p></div>
+        <p className="text-[22px] w-[571px] font-[libre-bodoni] background: rgba(120, 112, 84, 1); "> An example of intricate workmanship and detail of elegant necklaces,lond and short chains form a part of our desirable collection.</p></div>
         <div className="p-2 rounded-md background: rgba(162, 152, 117, 1);">
-        <button className="py-2 px-10 font-bold text-slate-50 rounded font-[libre-bodoni] weight-[500]">Explore Now</button>
+        <button className="py-2 px-10 font-bold text-slate-50 rounded font-[libre-bodoni] weight-[500]">EXPLORE NOW.</button>
       </div>
         </div>
         <div className="w-1/2 flex justifty-items-center">
