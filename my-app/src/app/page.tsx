@@ -21,7 +21,7 @@ import Header from "../components/header";
         src={"/Figma.jpg"}
         alt="hero image"
         width={500}
-        height={200}/>
+        height={100}/>
         </div>
       </div>
     </div>
