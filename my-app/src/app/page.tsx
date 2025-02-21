@@ -18,7 +18,7 @@ import Header from "../components/header";
         </div>
         <div className="w-1/2 flex justifty-items-center">
         <Image 
-        src={"/Figma.jpeg.jpg"}
+        src={"/Figma.jpg"}
         alt="hero image"
         width={500}
         height={200}/>
